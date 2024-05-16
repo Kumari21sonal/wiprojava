@@ -6,6 +6,9 @@ public class File1
 	 System.out.println("First Java");
 		System.out.println("second line");
 		System.out.println("third line");
+
+		File1 obj = new file1();
+		obj.add();
 	}
 }
 
